@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Ali!
 
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQG-Nktp3AibSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726124018647?e=1732147200&v=beta&t=eHhEA-59ZJgyGKmWPzcHO4JeRaNit-hrQQ7ZCgXf2vA)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQG-Nktp3AibSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726124018647?e=1745452800&v=beta&t=RbLWhAznPWvXkKZoabm88PHc5n3TxChMHbNLYPFUFeE)
 
 ### 📫 Connect with me
 - **Email:** [waris0889@gmail.com](mailto:waris0889@gmail.com)
