@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Muhammad Ali!
 
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQG-Nktp3AibSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726124018647?e=1745452800&v=beta&t=RbLWhAznPWvXkKZoabm88PHc5n3TxChMHbNLYPFUFeE)
+![1754901444240](https://github.com/user-attachments/assets/2fb77738-5ff4-4105-95a2-51d2a4a4f2aa)
+
 
 ### 📫 Connect with me
 - **Email:** [muhammadali.dev012@gmail.com](mailto:muhammadali.dev012@gmail.com)
