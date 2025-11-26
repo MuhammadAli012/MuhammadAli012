@@ -29,7 +29,8 @@ I thrive in collaborative, fast-paced environments and am deeply committed to co
 
 ### MERN Stack Developer | DGSOL Creative ltd
 **September 2024 – Present**
-As a MERN Developer at DGSOL, I specialize in building dynamic, responsive web applications using React.js, Express.js , Node.js, Next.js along with SQL and NoSQL database. I collaborate with cross-functional teams to develop user-friendly interfaces, optimize performance, and implement efficient, reusable components. My focus is on delivering high-quality solutions that enhance user experiences while staying up-to-date with the latest trends and best practices in front and back end development
+
+- As a MERN Developer at DGSOL, I specialize in building dynamic, responsive web applications using React.js, Express.js , Node.js, Next.js along with SQL and NoSQL database. I collaborate with cross-functional teams to develop user-friendly interfaces, optimize performance, and implement efficient, reusable components. My focus is on delivering high-quality solutions that enhance user experiences while staying up-to-date with the latest trends and best practices in front and back end development
   
 ### MERN Stack Developer | RIEMANN SYSTEMS
 **July 2023 – August 2024**
