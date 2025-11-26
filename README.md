@@ -3,19 +3,34 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQG-Nktp3AibSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726124018647?e=1745452800&v=beta&t=RbLWhAznPWvXkKZoabm88PHc5n3TxChMHbNLYPFUFeE)
 
 ### 📫 Connect with me
-- **Email:** [waris0889@gmail.com](mailto:waris0889@gmail.com)
+- **Email:** [muhammadali.dev012@gmail.com](mailto:muhammadali.dev012@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/muhammad-ali-122bb6270/)
 - **Portfolio:** [Visit Portfolio](https://muhammadali012.vercel.app/)
 
 ---
 
 ## 🚀 About Me
-A dedicated and passionate **MERN Stack Developer** with extensive experience in **React.js**, specializing in building dynamic, responsive web applications. Currently pursuing a **BS in Computer Science** at Government College University Faisalabad. I'm a LeetCode enthusiast and an active participant in Lablab AI hackathons.
+𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴, 𝗦𝗰𝗮𝗹𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗗𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝗺𝗼𝗱𝗲𝗿𝗻 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝘁𝗵𝗮𝘁 𝗱𝗲𝗹𝗶𝘃𝗲𝗿 𝗺𝗲𝗮𝘀𝘂𝗿𝗮𝗯𝗹𝗲 𝗿𝗲𝘀𝘂𝗹𝘁𝘀.
+
+I am a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 and 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 obsessed with turning complex problems into intuitive, high-performance web experiences. My sweet spot is leveraging the 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 (𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗡𝗼𝗱𝗲.𝗷𝘀) to deliver full-stack solutions, though my primary expertise lies in 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 for crafting dynamic, user-friendly interfaces.
+
+💡 𝗧𝗵𝗲 𝗩𝗮𝗹𝘂𝗲 𝗜 𝗕𝗿𝗶𝗻𝗴
+ 𝗦𝗽𝗲𝗲𝗱 & 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: I build and deploy applications faster by integrating modern tools like 𝗔𝗪𝗦, 𝗩𝗲𝗿𝗰𝗲𝗹, 𝗮𝗻𝗱 𝗔𝗜-𝗱𝗿𝗶𝘃𝗲𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀, ensuring rapid feature delivery and robust scalability.
+
+ 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗔𝗴𝗶𝗹𝗶𝘁𝘆: While specializing in the frontend, I seamlessly navigate the backend, utilizing 𝗦𝗤𝗟 𝗮𝗻𝗱 𝗡𝗼𝗦𝗤𝗟 databases to build cohesive, end-to-end features.
+
+ 𝗣𝗿𝗼𝘃𝗲𝗻 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: Currently, I contribute to innovative applications at 𝗗𝗚𝗦𝗢𝗟 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗟𝘁𝗱. Previously, at 𝗥𝗶𝗲𝗺𝗮𝗻𝗻 𝗦𝘆𝘀𝘁𝗲𝗺𝘀, I focused on delivering seamless user experiences for SaaS projects using 𝗔𝗴𝗶𝗹𝗲 𝗺𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀.
+
+I thrive in collaborative, fast-paced environments and am deeply committed to continuous skill enhancement. I'm actively seeking opportunities to drive growth for forward-thinking tech companies that value quality and speed in product development..
 
 ---
 
 ## 💼 Experience
 
+### MERN Stack Developer | DGSOL Creative ltd
+**September 2024 – Present**
+As a MERN Developer at DGSOL, I specialize in building dynamic, responsive web applications using React.js, Express.js , Node.js, Next.js along with SQL and NoSQL database. I collaborate with cross-functional teams to develop user-friendly interfaces, optimize performance, and implement efficient, reusable components. My focus is on delivering high-quality solutions that enhance user experiences while staying up-to-date with the latest trends and best practices in front and back end development
+  
 ### MERN Stack Developer | RIEMANN SYSTEMS
 **July 2023 – August 2024**
 - Developed multiple web projects with a focus on **React.js** and the MERN stack.
@@ -34,21 +49,12 @@ A dedicated and passionate **MERN Stack Developer** with extensive experience in
 ## 🛠 Key Projects
 
 ### SaaS Base Projects:
+- **[Optilinko](https://optilinko-tool.vercel.app/):** Business Tool.
 - **[Hire Cruise](https://hirecruise.us/):** ATS platform using React.js.
 - **[Scrum Slate](https://scrumslate.com/):** Project management system.
 
 ### University Final Year Project:
-- **Blood Donation Web App:** Managing blood banks, donors, and patients with MERN stack(in process).
-
-### Saylani Hackathon Projects:
-- **[Event Planner](https://plan-event-with-ali.netlify.app/):** Built in 10 hours using React.js and Firebase.
-- **[Ecommerce Web App](https://bitbucket.org/arshali/ecomercesaylanifinalhakaton/src/master/):** Full-stack ecommerce app built in 10 hours.
-
-### Personal Projects:
-- **[Real Estate Website](https://bitbucket.org/arshali/real-estate-website-with-react-firebase/src/master/):** Real estate platform using React.js and Firebase.
-- **[Blog Website](https://bitbucket.org/arshali/blog-website-with-react-firebase/src/master/):** Blog platform with comment and reaction management.
-- **[Chat App](https://bitbucket.org/arshali/front-end-section-chatapp-with-mern-and-websockets/src/master/):** Chat system using MERN stack and Socket.io.
-- **[ZetaGPT](https://bitbucket.org/arshali/fake-chatgpt/src/master/):** AI-powered chat application using OpenAI APIs.
+- **AI Powered Recruitment Platform.
 
 ---
 
