@@ -13,66 +13,16 @@
 ## 🚀 About Me
 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴, 𝗦𝗰𝗮𝗹𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗗𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝗺𝗼𝗱𝗲𝗿𝗻 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝘁𝗵𝗮𝘁 𝗱𝗲𝗹𝗶𝘃𝗲𝗿 𝗺𝗲𝗮𝘀𝘂𝗿𝗮𝗯𝗹𝗲 𝗿𝗲𝘀𝘂𝗹𝘁𝘀.
 
-I am a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 and 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 obsessed with turning complex problems into intuitive, high-performance web experiences. My sweet spot is leveraging the 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 (𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗡𝗼𝗱𝗲.𝗷𝘀) to deliver full-stack solutions, though my primary expertise lies in 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 for crafting dynamic, user-friendly interfaces.
+I am a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with 5+ years of experience turning complex problems into intuitive, high-performance web applications. My expertise lies in leveraging the 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 (𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗡𝗼𝗱𝗲.𝗷𝘀) and Python along with its ecosystem to design, build, scale, and deploy end-to-end solutions. While my primary expertise is in 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, I have extensive experience delivering complete full-stack applications from development to production deployment.
 
 💡 𝗧𝗵𝗲 𝗩𝗮𝗹𝘂𝗲 𝗜 𝗕𝗿𝗶𝗻𝗴
- 𝗦𝗽𝗲𝗲𝗱 & 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: I build and deploy applications faster by integrating modern tools like 𝗔𝗪𝗦, 𝗩𝗲𝗿𝗰𝗲𝗹, 𝗮𝗻𝗱 𝗔𝗜-𝗱𝗿𝗶𝘃𝗲𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀, ensuring rapid feature delivery and robust scalability.
+ 𝗦𝗽𝗲𝗲𝗱 & 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: I build and deploy applications faster by integrating modern tools like 𝗔𝗪𝗦, 𝗩𝗲𝗿𝗰𝗲𝗹, 𝗛𝗲𝗿𝗼𝗸𝘂 𝗮𝗻𝗱 𝗔𝗜-𝗱𝗿𝗶𝘃𝗲𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀, ensuring rapid feature delivery and robust scalability.
 
  𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗔𝗴𝗶𝗹𝗶𝘁𝘆: While specializing in the frontend, I seamlessly navigate the backend, utilizing 𝗦𝗤𝗟 𝗮𝗻𝗱 𝗡𝗼𝗦𝗤𝗟 databases to build cohesive, end-to-end features.
 
  𝗣𝗿𝗼𝘃𝗲𝗻 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: Currently, I contribute to innovative applications at 𝗗𝗚𝗦𝗢𝗟 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗟𝘁𝗱. Previously, at 𝗥𝗶𝗲𝗺𝗮𝗻𝗻 𝗦𝘆𝘀𝘁𝗲𝗺𝘀, I focused on delivering seamless user experiences for SaaS projects using 𝗔𝗴𝗶𝗹𝗲 𝗺𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀.
 
 I thrive in collaborative, fast-paced environments and am deeply committed to continuous skill enhancement. I'm actively seeking opportunities to drive growth for forward-thinking tech companies that value quality and speed in product development..
-
----
-
-## 💼 Experience
-
-### MERN Stack Developer | DGSOL Creative ltd
-**September 2024 – Present**
-
-- As a MERN Developer at DGSOL, I specialize in building dynamic, responsive web applications using React.js, Express.js , Node.js, Next.js along with SQL and NoSQL database. I collaborate with cross-functional teams to develop user-friendly interfaces, optimize performance, and implement efficient, reusable components. My focus is on delivering high-quality solutions that enhance user experiences while staying up-to-date with the latest trends and best practices in front and back end development
-  
-### MERN Stack Developer | RIEMANN SYSTEMS
-**July 2023 – August 2024**
-- Developed multiple web projects with a focus on **React.js** and the MERN stack.
-- Collaborated on two major **SaaS-based applications**, focusing on **dynamic user interfaces**.
-- Led front-end development for **Hire Cruise**, an Applicant Tracking System (ATS).
-- Contributed to the development of **Scrum Slate**, a project management system akin to JIRA.
-- Practiced **Agile methodologies** using Scrum for project management.
-
-### Web Designer | LEDGER BOOK SOFTWARE HOUSE
-**August 2022 – June 2023**
-- Designed and developed websites for local clients.
-- Created an accounting software platform and a company website using **HTML, CSS, JS, and PHP**.
-
----
-
-## 🛠 Key Projects
-
-### SaaS Base Projects:
-- **[Optilinko](https://optilinko-tool.vercel.app/):** Business Tool.
-- **[Hire Cruise](https://hirecruise.us/):** ATS platform using React.js.
-- **[Scrum Slate](https://scrumslate.com/):** Project management system.
-
-### University Final Year Project:
-- **AI Powered Recruitment Platform.
-
----
-
-## 🎓 Education
-
-- **BS Computer Science** | Government College University Faisalabad | **2021-2025** | CGPA: **3.6**
-- **FSC (Pre Engineering)** | TIPS College of Science and Commerce | **2018-2020** | Grade: **B+**
-- **Modern Application and API Development** | Saylani Mass IT Lab | **2022-2023**
-
----
-
-## 🏆 Key Achievements
-
-- Managed a seminar on **Artificial Intelligence** at GCUF.
-- Represented GCUF in a web development competition at Fast University.
-- Continuous participant in **LabLab AI** hackathons.
 
 ---
 ## Connect with me
