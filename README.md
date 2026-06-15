@@ -37,10 +37,10 @@ I thrive in collaborative, fast-paced environments and am deeply committed to co
   <a href="https://twitter.com/@muhamma12590061" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@muhamma12590061" height="40" width="40" style="margin: 0 15px;" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ali-122bb6270/" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-ali-122bb6270/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ali-122bb6270/" height="40" width="40" style="margin: 0 15px;" />
   </a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27176156/muhammad-ali" target="blank">
+  <a href="/https://stackoverflow.com/users/27176156/muhammad-ali" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27176156/muhammad-ali" height="40" width="40" style="margin: 0 15px;" />
   </a>
   <a href="https://codesandbox.com/muhammadali_dev" target="blank">
@@ -52,7 +52,7 @@ I thrive in collaborative, fast-paced environments and am deeply committed to co
   <a href="https://www.codechef.com/users/colony_art_72" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="colony_art_72" height="40" width="40" style="margin: 0 15px;" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/waris0889/" target="blank">
+  <a href="https://leetcode.com/u/waris0889/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/waris0889/" height="40" width="40" style="margin: 0 15px;" />
   </a>
 </p>
