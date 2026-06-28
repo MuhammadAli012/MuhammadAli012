@@ -13,7 +13,7 @@
 ## 🚀 About Me
 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴, 𝗦𝗰𝗮𝗹𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗗𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝗺𝗼𝗱𝗲𝗿𝗻 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝘁𝗵𝗮𝘁 𝗱𝗲𝗹𝗶𝘃𝗲𝗿 𝗺𝗲𝗮𝘀𝘂𝗿𝗮𝗯𝗹𝗲 𝗿𝗲𝘀𝘂𝗹𝘁𝘀.
 
-I am a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with 5+ years of experience turning complex problems into intuitive, high-performance web applications. My expertise lies in leveraging the 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 (𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗡𝗼𝗱𝗲.𝗷𝘀) and Python along with its ecosystem to design, build, scale, and deploy end-to-end solutions. While my primary expertise is in 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, I have extensive experience delivering complete full-stack applications from development to production deployment.
+I am a 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with 4+ years of experience turning complex problems into intuitive, high-performance web applications. My expertise lies in leveraging the 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 (𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗡𝗼𝗱𝗲.𝗷𝘀) and Python along with its ecosystem to design, build, scale, and deploy end-to-end solutions. While my primary expertise is in 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, I have extensive experience delivering complete full-stack applications from development to production deployment.
 
 💡 𝗧𝗵𝗲 𝗩𝗮𝗹𝘂𝗲 𝗜 𝗕𝗿𝗶𝗻𝗴
  𝗦𝗽𝗲𝗲𝗱 & 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: I build and deploy applications faster by integrating modern tools like 𝗔𝗪𝗦, 𝗩𝗲𝗿𝗰𝗲𝗹, 𝗛𝗲𝗿𝗼𝗸𝘂 𝗮𝗻𝗱 𝗔𝗜-𝗱𝗿𝗶𝘃𝗲𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀, ensuring rapid feature delivery and robust scalability.
